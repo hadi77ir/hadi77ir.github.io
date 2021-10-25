@@ -1,0 +1,29 @@
+{
+  "name": "houseofnotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "lato-font": "^3.0.0",
+    "placeholder-loading": "^0.2.5",
+    "popper.js": "^1.16.0",
+    "slick-carousel": "*",
+    "sticky-sidebar": "^3.3.1",
+    "vazir-font": "^21.2.0"
+  },
+  "devDependencies": {
+    "node-sass": "*",
+    "shelljs": "*"
+  },
+  "scripts": {
+    "prebuild": "npm install",
+    "build": "node build.js",
+    "watch": "./node_modules/.bin/node-sass -w ./scss/main.scss --output ./assets/css/"
+  }
+}

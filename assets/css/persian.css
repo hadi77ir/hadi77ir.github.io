@@ -1,0 +1,159 @@
+@use "sass:map";
+@font-face {
+  font-family: "Sahel";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/sahel/sahel-400.woff2") format("woff2"), url("../fonts/sahel/sahel-400.woff") format("woff"); }
+
+@font-face {
+  font-family: "Sahel";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/sahel/sahel-400-italic.woff2") format("woff2"), url("../fonts/sahel/sahel-400-italic.woff") format("woff"); }
+
+@font-face {
+  font-family: "Sahel";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/sahel/sahel-700.woff2") format("woff2"), url("../fonts/sahel/sahel-700.woff") format("woff"); }
+
+@font-face {
+  font-family: "Sahel";
+  font-style: italic;
+  font-weight: 700;
+  src: url("../fonts/sahel/sahel-700-italic.woff2") format("woff2"), url("../fonts/sahel/sahel-700-italic.woff") format("woff"); }
+
+@font-face {
+  font-family: "Sahel Bold";
+  font-style: "normal";
+  font-weight: 700;
+  src: url("../fonts/sahel/sahel-700.woff2") format("woff2"), url("../fonts/sahel/sahel-700.woff") format("woff"); }
+
+@font-face {
+  font-family: "Samim";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/samim/samim-400.woff2") format("woff2"), url("../fonts/samim/samim-400.woff") format("woff"); }
+
+@font-face {
+  font-family: "Samim";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/samim/samim-400-italic.woff2") format("woff2"), url("../fonts/samim/samim-400-italic.woff") format("woff"); }
+
+@font-face {
+  font-family: "Samim";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/samim/samim-700.woff2") format("woff2"), url("../fonts/samim/samim-700.woff") format("woff"); }
+
+@font-face {
+  font-family: "Samim";
+  font-style: italic;
+  font-weight: 700;
+  src: url("../fonts/samim/samim-700-italic.woff2") format("woff2"), url("../fonts/samim/samim-700-italic.woff") format("woff"); }
+
+@font-face {
+  font-family: "Samim Bold";
+  font-style: "normal";
+  font-weight: 700;
+  src: url("../fonts/samim/samim-700.woff2") format("woff2"), url("../fonts/samim/samim-700.woff") format("woff"); }
+
+body.persian {
+  direction: rtl;
+  text-align: right;
+  font-family: "Marat Sans", "Samim", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; }
+  body.persian .linea.linea-arrows-next::before {
+    content: "\e03f"; }
+  body.persian .linea.linea-arrows-prev::before {
+    content: "\e04b"; }
+  body.persian h1 {
+    font-family: "Marat Sans", "Samim", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; }
+  body.persian h2 {
+    font-family: "Marat Sans", "Samim", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; }
+  body.persian h3 {
+    font-family: "Marat Sans", "Samim", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; }
+  body.persian h4 {
+    font-family: "Marat Sans", "Samim", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; }
+  body.persian h5 {
+    font-family: "Marat Sans", "Samim", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; }
+  body.persian h6 {
+    font-family: "Marat Sans", "Samim", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; }
+  body.persian header#header .inner .site-title {
+    font-family: "Noe Display", "Sahel", Georgia, Cambria, "Times New Roman", Times, serif; }
+    body.persian header#header .inner .site-title img.avatar {
+      margin-right: 0;
+      margin-left: 20px; }
+  body.persian header#header .inner .social-media ul li:last-child {
+    margin-left: 0;
+    margin-right: 10px; }
+  body.persian .slick-track {
+    margin-right: 32px; }
+  @media (min-width: 1200px) {
+    body.persian section#featured-content > .inner .first-card article.post .post-details {
+      padding-left: 0;
+      padding-right: 5rem; } }
+  @media (min-width: 768px) {
+    body.persian section#featured-content > .inner .second-card article.post .post-image {
+      margin-right: 0;
+      margin-left: 24px; } }
+  body.persian section#featured-content > .inner .more {
+    text-align: left; }
+  body.persian section#frontpage-content .section-title h2,
+  body.persian section#archive-content .section-title h2,
+  body.persian section#featured-content .section-title h2 {
+    font-family: "Noe Display", "Sahel", Georgia, Cambria, "Times New Roman", Times, serif; }
+  body.persian section#frontpage-content main#main-content ul.posts > li article.post .post-details footer.post-footer ul.post-actions,
+  body.persian section#archive-content main#main-content ul.posts > li article.post .post-details footer.post-footer ul.post-actions {
+    text-align: left; }
+  body.persian section#frontpage-content aside#sidebar footer#footer a,
+  body.persian section#archive-content aside#sidebar footer#footer a {
+    margin-right: 0;
+    margin-left: 10px; }
+  body.persian section#frontpage-content ul.posts > li article.post .post-image {
+    margin-left: 0;
+    margin-right: 1rem; }
+  body.persian #post-content article.post header.post-header h1.post-title, body.persian #page-content article.post header.post-header h1.post-title {
+    font-family: "Fell", "Sahel Bold", Georgia, Cambria, "Times New Roman", Times, serif;
+    line-height: 2; }
+  body.persian #post-content article.post header.post-header h2.post-description, body.persian #page-content article.post header.post-header h2.post-description {
+    font-family: "Marat Sans", "Samim", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+    line-height: 1.5; }
+  body.persian #post-content article.post header.post-header .post-details ul.post-actions, body.persian #page-content article.post header.post-header .post-details ul.post-actions {
+    text-align: left; }
+  body.persian #post-content article.post .post-content p img + em,
+  body.persian #post-content article.post .post-featured-image img + em, body.persian #page-content article.post .post-content p img + em,
+  body.persian #page-content article.post .post-featured-image img + em {
+    font-family: "Marat Sans", "Samim", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif; }
+  body.persian #post-content article.post .post-content, body.persian #page-content article.post .post-content {
+    font-family: "Charter", "Sahel", Georgia, Cambria, "Times New Roman", Times, serif; }
+    body.persian #post-content article.post .post-content ol,
+    body.persian #post-content article.post .post-content ul,
+    body.persian #post-content article.post .post-content dl, body.persian #page-content article.post .post-content ol,
+    body.persian #page-content article.post .post-content ul,
+    body.persian #page-content article.post .post-content dl {
+      margin-left: 0;
+      margin-right: 1rem; }
+    body.persian #post-content article.post .post-content blockquote, body.persian #page-content article.post .post-content blockquote {
+      border-left: 0;
+      padding-left: 0;
+      margin-left: 0;
+      border-right: 0.2rem solid #282828;
+      padding-right: 1rem;
+      margin-right: -1.2rem; }
+    body.persian #post-content article.post .post-content pre, body.persian #page-content article.post .post-content pre {
+      text-align: left;
+      direction: ltr; }
+    body.persian #post-content article.post .post-content code, body.persian #page-content article.post .post-content code {
+      direction: ltr; }
+  body.persian #post-content article.post footer.post-footer ul.post-tags li, body.persian #page-content article.post footer.post-footer ul.post-tags li {
+    margin-right: 0;
+    margin-left: 8px; }
+  body.persian .loading .loading-post {
+    direction: rtl; }
+    body.persian .loading .loading-post::before {
+      margin-right: -250%;
+      margin-left: 0; }
+    body.persian .loading .loading-post .loading-post-content {
+      padding-right: 0;
+      padding-left: 19px; }

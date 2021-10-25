@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://hadi77ir.ir/atom.xml" rel="self" type="application/atom+xml" /><link href="https://hadi77ir.ir/" rel="alternate" type="text/html" /><updated>2021-10-25T18:00:38-05:00</updated><id>https://hadi77ir.ir/atom.xml</id><title type="html">محمدهادی حسین‌پور</title><subtitle>صرفاً نوشته‌های شخصی</subtitle><author><name>hadi77ir</name></author><entry><title type="html">سرآغاز</title><link href="https://hadi77ir.ir/2018/12/15/01-first-post.html" rel="alternate" type="text/html" title="سرآغاز" /><published>2018-12-15T00:00:00-06:00</published><updated>2018-12-15T00:00:00-06:00</updated><id>https://hadi77ir.ir/2018/12/15/01-first-post</id><content type="html" xml:base="https://hadi77ir.ir/2018/12/15/01-first-post.html">&lt;p&gt;بسم الله الرحمن الرحیم&lt;/p&gt;
+
+&lt;p&gt;خیلی طول کشید تا اینجا رو دوباره بیارم بالا. مطالب قبلی از بین رفت، اصراری هم به برگشتن‌شون ندارم چون جدی نمی‌نوشتم اما از الآن جدی‌تر می‌نویسم و این نوشتن برام خیلی مهمه. خیلی رسمی نمی‌نویسم؛ هر چیزی دلم بخواد می‌نویسم و کسی هم نمی‌تونه باهام از طریق «تحت فشار گذاشتن سرویس‌دهنده برای حذف محتوا یا سرویس» برخورد کنه. حتی بخش کامنت هم نداریم چون وبلاگ کاملاً ایستا طراحی شده هر چند شاید بعداً از Disqus استفاده کنم اما فعلاً خبری از این چیزها نیست. با این حال تلگرام به عنوان راه ارتباطی خصوصی در اختیارتون هست و اگر نقد، نظر یا پیشنهادی داشتید در میون بذارید.&lt;/p&gt;</content><author><name>hadi77ir</name></author><summary type="html">بسم الله الرحمن الرحیم</summary></entry><entry><title type="html">مقدمه‌ای بر تولید محتوای ایستا</title><link href="https://hadi77ir.ir/2018/12/15/02-wyam-intro.html" rel="alternate" type="text/html" title="مقدمه‌ای بر تولید محتوای ایستا" /><published>2018-12-15T00:00:00-06:00</published><updated>2018-12-15T00:00:00-06:00</updated><id>https://hadi77ir.ir/2018/12/15/02-wyam-intro</id><content type="html" xml:base="https://hadi77ir.ir/2018/12/15/02-wyam-intro.html">&lt;p&gt;طراحی و پیاده‌سازی وب‌سایت این روزها با سیستم‌های مدیریت محتوا و علی‌الخصوص سیستم‌های مدیریت محتوای مشهوری چون جوملا، وردپرس، دروپال و امثالهم گره خورده است؛ اما آیا به جز وب‌سایت‌های پویا راه دیگری هم برای طراحی و پیاده‌سازی وب‌سایت وجود دارد؟&lt;/p&gt;
+
+&lt;p&gt;وب‌سایت‌ها به طور کلی و از نظر سرو شدن، به دو دسته &lt;strong&gt;ایستا&lt;/strong&gt; و &lt;strong&gt;پویا&lt;/strong&gt; تقسیم می‌شوند. تفاوت، در نحوه آماده‌سازی صفحات برای ارائه به مخاطب است.&lt;/p&gt;
+
+&lt;p&gt;در روش ایستا، صفحات از قبل آماده‌سازی و ذخیره شده اند و دقیقاً به همان شکلی که در پرونده‌ها ذخیره شده‌اند به مخاطب ارائه می‌شوند. در این روند، هیچ عمل سمت‌سروری جز خواندن بایت‌به‌بایت پرونده و نوشتن بایت‌به‌بایت بر روی اتصال برقرار شده صورت نمی‌گیرد. اولین وب‌سایت‌هایی که ایجاد شدند، وب‌سایت‌های ایستا بودند.&lt;/p&gt;
+
+&lt;p&gt;وب‌سایت پویا در مقابل، با «سیستم پرونده» سر و کار چندانی ندارد و از «پایگاه داده» برای ذخیره داده‌ها و سپس یک برنامه برای سرو کردن محتوا برای هر درخواست استفاده می‌کند. این دسته از صفحات وب می‌توانند شامل فرم‌ها، احراز هویت، پرداخت اینترنتی، محتوای متغیر و… باشند.&lt;/p&gt;
+
+&lt;p&gt;وب‌سایت‌هایی که مطلقاً از صفحات ایستا استفاده می‌کنند، مزیت‌هایی دارند:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;میزبانی ارزان‌تر&lt;/li&gt;
+  &lt;li&gt;بسیار سریع‌تر&lt;/li&gt;
+  &lt;li&gt;عدم نیاز به پیکربندی&lt;/li&gt;
+  &lt;li&gt;عدم نیاز به پایگاه داده&lt;/li&gt;
+  &lt;li&gt;فاکتورهای امنیتی کمتر و امنیت بسیار بالاتر نسبت به سایت‌های پویا&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;اما بزرگ‌ترین عیب آن‌ها، نیاز به دستکاری پرونده‌ها برای ایجاد تغییرات است. اگر وب‌سایت شما تغییرات زیادی داشته باشد، باید کل پرونده‌ها را ویرایش کرد و دوباره بارگذاری کرد.&lt;/p&gt;
+
+&lt;p&gt;اگر وب‌سایت شما شامل صفحاتی ساده است، پس استفاده از یک سیستم مدیریت محتوا مانند وردپرس اضافه کاری است، اگر به همه امکانات یک سیستم مدیریت محتوا احتیاج دارید، یک سیستم مدیریت محتوا نصب کنید اما برای یک وبلاگ ساده، نصب وردپرس زیاده‌روی است! برای یک وبلاگ ساده، استفاده از یک «مولد سایت ایستا» کافی است.&lt;/p&gt;
+
+&lt;h3 id=&quot;مولد-سایت-ایستا-چیست&quot;&gt;«مولد سایت ایستا» چیست؟&lt;/h3&gt;
+
+&lt;p&gt;در سال‌های اخیر ابزارهایی برای تسهیل تولید وب‌سایت‌های ایستا توسعه داده شده‌اند. این ابزارها با دریافت پرونده‌هایی به عنوان ورودی، صفحات وب ایستا را تولید می‌کنند که می‌توان پس از آن روی میزبان بارگذاری کرد.&lt;/p&gt;
+
+&lt;h3 id=&quot;انتخاب-یک-مولد-سایت&quot;&gt;انتخاب یک مولد سایت&lt;/h3&gt;
+
+&lt;p&gt;تا به امروز مولدهای مختلفی طراحی و پیاده‌سازی شده‌اند؛ در اکوسیستم‌های مختلف، اهداف مختلف، نشانه‌گذاری‌ها و قالب‌سازی‌های مختلف و…&lt;/p&gt;
+
+&lt;p&gt;جدول زیر تعدادی از آن‌ها را با یک‌دیگر مقایسه می‌کند.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;عنوان&lt;/th&gt;
+      &lt;th&gt;زبان&lt;/th&gt;
+      &lt;th&gt;محیط اجرا&lt;/th&gt;
+      &lt;th&gt;قالب&lt;/th&gt;
+      &lt;th&gt;ابزار ویرایشگر بصری&lt;/th&gt;
+      &lt;th&gt;مجوز&lt;/th&gt;
+      &lt;th&gt;تعداد ستاره‌ها&lt;/th&gt;
+      &lt;th&gt;تعداد فورک‌ها&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jekyll&lt;/td&gt;
+      &lt;td&gt;Ruby&lt;/td&gt;
+      &lt;td&gt;Ruby&lt;/td&gt;
+      &lt;td&gt;Liquid&lt;/td&gt;
+      &lt;td&gt;Jekyll Admin&lt;/td&gt;
+      &lt;td&gt;MIT&lt;/td&gt;
+      &lt;td&gt;36k+&lt;/td&gt;
+      &lt;td&gt;7k+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Next&lt;/td&gt;
+      &lt;td&gt;Javascript&lt;/td&gt;
+      &lt;td&gt;Node.js&lt;/td&gt;
+      &lt;td&gt;Javascript (React)&lt;/td&gt;
+      &lt;td&gt;Monaco Editor&lt;/td&gt;
+      &lt;td&gt;MIT&lt;/td&gt;
+      &lt;td&gt;32k+&lt;/td&gt;
+      &lt;td&gt;3k+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Hugo&lt;/td&gt;
+      &lt;td&gt;Go&lt;/td&gt;
+      &lt;td&gt;Go&lt;/td&gt;
+      &lt;td&gt;Go&lt;/td&gt;
+      &lt;td&gt;Hoku CMS&lt;/td&gt;
+      &lt;td&gt;Apache 2.0&lt;/td&gt;
+      &lt;td&gt;30k+&lt;/td&gt;
+      &lt;td&gt;3k+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gatsby&lt;/td&gt;
+      &lt;td&gt;Javascript&lt;/td&gt;
+      &lt;td&gt;Node.js&lt;/td&gt;
+      &lt;td&gt;React&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;MIT&lt;/td&gt;
+      &lt;td&gt;28k+&lt;/td&gt;
+      &lt;td&gt;3k+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Hexo&lt;/td&gt;
+      &lt;td&gt;Javascript&lt;/td&gt;
+      &lt;td&gt;Node.js&lt;/td&gt;
+      &lt;td&gt;ماژولار (EJS, Pug, Haml, Mustache, Twig و…)&lt;/td&gt;
+      &lt;td&gt;Hexo Editor / Hexo Admin&lt;/td&gt;
+      &lt;td&gt;MIT&lt;/td&gt;
+      &lt;td&gt;24k+&lt;/td&gt;
+      &lt;td&gt;3k+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;GitBook&lt;/td&gt;
+      &lt;td&gt;Javascript&lt;/td&gt;
+      &lt;td&gt;Node.js&lt;/td&gt;
+      &lt;td&gt;Jinja2&lt;/td&gt;
+      &lt;td&gt;GitBook Editor&lt;/td&gt;
+      &lt;td&gt;Apache 2.0&lt;/td&gt;
+      &lt;td&gt;19k+&lt;/td&gt;
+      &lt;td&gt;2k+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Nuxt&lt;/td&gt;
+      &lt;td&gt;Javascript&lt;/td&gt;
+      &lt;td&gt;Node.js&lt;/td&gt;
+      &lt;td&gt;Vue&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;MIT&lt;/td&gt;
+      &lt;td&gt;16k+&lt;/td&gt;
+      &lt;td&gt;1k+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Octopress&lt;/td&gt;
+      &lt;td&gt;Ruby&lt;/td&gt;
+      &lt;td&gt;Ruby&lt;/td&gt;
+      &lt;td&gt;Liquid&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;MIT&lt;/td&gt;
+      &lt;td&gt;1k+&lt;/td&gt;
+      &lt;td&gt;150+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wyam&lt;/td&gt;
+      &lt;td&gt;C#/.NET&lt;/td&gt;
+      &lt;td&gt;.NET Core&lt;/td&gt;
+      &lt;td&gt;ماژولار (Razor, Mustache, Liquid, PHP و..)&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;MIT&lt;/td&gt;
+      &lt;td&gt;900+&lt;/td&gt;
+      &lt;td&gt;150+&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;از بین این ابزارها، ساده‌ترین و منعطف‌ترین آن‌ها در نظرم Wyam است. انتخاب از میان ابزارها به سلیقه شما بستگی دارد و احاطه شما بر زبان و محیط اجرای آن ابزار. اما اگر کاربر ویندوز هستید و اندک آشنایی با C#/.NET دارید، قصد طراحی سایت با Vue.js و React را ندارید و به دنبال ابزاری قدرتمند هستید؛ به شما Wyam را پیشنهاد می‌کنم.&lt;/p&gt;
+
+&lt;h2 id=&quot;معرفی-wyam&quot;&gt;معرفی Wyam&lt;/h2&gt;
+
+&lt;p&gt;Wyam با هدف پیاده‌سازی یک مولد &lt;strong&gt;محتوای&lt;/strong&gt; ایستا با انعطاف بسیار بالا که از Razor &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;  استفاده می‌کند، توسط Dave Glick در سال ۲۰۱۴ بنیان‌گذاری شد. این ابزار حول &lt;a href=&quot;https://wyam.io/docs/concepts&quot;&gt;مفهوم&lt;/a&gt; «خطوط تولید» طراحی شده است که به آن انعطاف بسیار بالایی می‌بخشد.&lt;/p&gt;
+
+&lt;p&gt;از آن‌جایی که Wyam برای سکوی .NET Core ارائه شده، در صورت نصب بودن .NET Core می‌توان با دستور زیر آن را نصب کرد:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dotnet tool install -g Wyam.Tool
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;یا اگر برای نصب راحت ابزارها روی ویندوز از Chocolatey استفاده می‌کنید، با دستور زیر می‌توانید آن را نصب کنید:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;choco install wyam
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;روند-تولید&quot;&gt;روند تولید&lt;/h3&gt;
+
+&lt;p&gt;Wyam بر اساس یک &lt;strong&gt;دستور پخت&lt;/strong&gt; (Recipe) پوشه‌های ورودی را پردازش کرده و نهایتاً یک پوشه شامل خروجی به ما تحویل می‌دهد. هر دستور پخت شامل حداقل یک &lt;strong&gt;خط تولید&lt;/strong&gt; (Pipeline) است و این خطوط تولید در کنار یکدیگر خروجی ما (که وب‌سایت است) را تشکیل می‌دهند.&lt;/p&gt;
+
+&lt;p&gt;شرح این دستور پخت، در پرونده پیکربندی که با نام &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.wyam&lt;/code&gt; در پوشه پروژه فعلی است. این پرونده شامل یک اسکریپت به زبان C# است و شامل ارجاع‌ها به بسته‌های NuGet، اسمبلی‌های .NET، تعیین پیش‌فرض‌های دستور پخت، تغییرات در خطوط تولید دستور پخت (در صورت استفاده از دستور پخت‌های توکار) و یا ایجاد خطوط تولید جدید و… می‌شود. این اسکریپت در زمان تولید خروجی، با استفاده از سرویس کامپایلر Roslyn کامپایل شده و سپس فراخوانی می‌شوند.&lt;/p&gt;
+
+&lt;p&gt;هر خط تولید، از اتصال چندین ماژول به یک‌دیگر تشکیل می‌شود. معمولاً آخرین ماژول خط تولید بایستی خروجی را ذخیره کند. به عنوان مثال، عملکرد کلی خط تولید «صفحه هر مطلب وبلاگ» به این صورت است:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;ReadFiles&lt;/strong&gt;: از هر پوشه ورودی، پرونده‌های مارک‌داون پوشه &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;posts&lt;/code&gt; را بگیر.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt;: آن‌ها را به HTML تبدیل کن.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Yaml&lt;/strong&gt;: فراداده را از سرآغاز دریافت کن.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Razor&lt;/strong&gt;:&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;قالب مربوطه را از پوشه پوسته بیاور.&lt;/li&gt;
+      &lt;li&gt;کد HTML به‌دست‌آمده از تبدیل مارک‌داون را در قالب جای‌گذاری کن.&lt;/li&gt;
+      &lt;li&gt;داده‌های موجود در سرآغاز [^2]  پرونده مارک‌داون را در قالب جای‌گذاری کن.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;WriteFiles&lt;/strong&gt;: حاصل را ذخیره کن.
+[^2]: در بخش نوشتن به این مسئله پرداخته شده است&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;در Wyam چندین دستورپخت آماده برای سرعت بخشیدن به روند تولید سایت پیش‌بینی شده است:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;بلاگ (Blog)&lt;/li&gt;
+  &lt;li&gt;کتاب اینترنتی (BookSite)&lt;/li&gt;
+  &lt;li&gt;مستندات (Docs)&lt;/li&gt;
+  &lt;li&gt;وب (Web)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;هر دستور پخت می‌تواند از «پوسته» هم بهره ببرد. به عنوان مثال دستور پخت بلاگ پوسته‌های CleanBlog, Phantom و… را دارد که به صورت بسته NuGet منتشر شده‌اند.&lt;/p&gt;
+
+&lt;h3 id=&quot;تولید-وبلاگ-ایستا&quot;&gt;تولید وبلاگ ایستا&lt;/h3&gt;
+
+&lt;p&gt;برای تولید یک وبلاگ ایستا، می‌توانیم از دستورپخت بلاگ و یکی از پوسته‌های رسمی استفاده کنیم. یکی از پوسته‌هایی که Wyam در قالب بسته‌های NuGet در اختیار ما قرار داده است، CleanBlog است که در این مثال استفاده می‌کنیم. برای ایجاد وبلاگ از دستور زیر استفاده می‌کنیم:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;C:\myblog&amp;gt; wyam new --recipe Blog
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;با اجرای این دستور، پروژه وبلاگ ایستا در پوشه فعلی (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;C:\myblog&lt;/code&gt;) ایجاد می‌شود. ساختار به وجود آمده به صورت زیر است:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;|- input/
+|-- posts/
+|--- first-post.md
+|-- about.md
+|- config.wyam
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;همان‌طور که از ساختار مشخص است، هر پروژه می‌تواند در پوشه ریشه خودش، چندین پوشه ورودی داشته باشد. نام &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;input&lt;/code&gt; به عنوان پیش‌فرض پوشه ورودی توسط ابزار شناخته می‌شود. وارد پوشه &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;input&lt;/code&gt; می‌شویم. در پوشه &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;posts&lt;/code&gt; نوشته‌ها قرار می‌گیرند و همچنین صفحات مجزا در کنار پوشه &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;posts&lt;/code&gt; و درون پوشه &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;input&lt;/code&gt;. قالب این پرونده‌ها، مارک‌داون است.&lt;/p&gt;
+
+&lt;p&gt;پرونده &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;first-post.md&lt;/code&gt; را باز می‌کنیم تا اولین نوشته خود را ویرایش کنیم.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Title: First Post
+Published: 1/1/2016
+Tags: Introduction
+---
+This is my first post!
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;از خط اول تا جایی که خط‌چین قرار دارد، جزء «سرآغاز» محسوب می‌شوند و از قالب YAML پیروی می‌کنند. سرآغاز، شامل فراداده مرتبط با این مطلب است و هنگام تولید خروجی، پس از خوانده شدن توسط ماژول YAML، مورد استفاده ماژول Razor برای جای‌گذاری درون قالب قرار می‌گیرند. پرکاربردترین فراداده‌های مورد استفاده در مطالب، همین ۳ عنوان هستند؛ به ترتیب: تیتر مطلب، زمان انتشار و برچسب‌ها. مطالبی که دارای فراداده «زمان انتشار» نباشند، «پیش‌نویس» تلقی شده و روی خروجی وبلاگ قرار نخواهند گرفت.&lt;/p&gt;
+
+&lt;p&gt;خط‌چین که شامل ۳ کاراکتر خط تیره است، سرآغاز را از محتوا جدا می‌کند و پس از خط‌چین، محتوای مطلب در قالب مارک‌داون قرار می‌گیرد.&lt;/p&gt;
+
+&lt;p&gt;برای صفحات جداگانه نیز قضیه به همین منوال است؛ با این تفاوت که فراداده‌های «برچسب» و «زمان انتشار» کاربردی ندارند.&lt;/p&gt;
+
+&lt;h4 id=&quot;پیکربندی&quot;&gt;پیکربندی&lt;/h4&gt;
+
+&lt;p&gt;نوبت انجام تنظیمات اولیه وبلاگ است. پرونده &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.wyam&lt;/code&gt; را با یک ویرایشگر متن ساده یا حتی بهتر، یک ویرایشگر کد باز می‌کنیم. محتوای آن به صورت زیر است:&lt;/p&gt;
+
+&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;err&quot;&gt;#&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;recipe&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Blog&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Customize your settings and add new ones here&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Settings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Keys&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Host&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;host.com&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Settings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BlogKeys&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;My Blog&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Settings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BlogKeys&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Description&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Welcome!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Add any pipeline customizations here&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;خط اول، دستور پخت را تعیین می‌کند. خطوط چهارم الی ششم، مقادیر اولیه فراداده را تعیین می‌کنند که هنگام جای‌گذاری در قالب کاربرد دارند. فراداده‌های تعیین‌شده به ترتیب «نام دامنه وبلاگ»، «عنوان وبلاگ» و «شرح وبلاگ» هستند. فهرست کامل فراداده‌های پشتیبانی‌شده توسط دستورپخت بلاگ را در &lt;a href=&quot;https://wyam.io/api/wyam.blog/blogkeys/&quot;&gt;اینجا&lt;/a&gt; ببینید.&lt;/p&gt;
+
+&lt;p&gt;در پایان می‌توانیم تغییراتی در خطوط تولید و دستور پخت ایجاد کنیم که در بخش‌های بعدی به این امر می‌پردازیم.&lt;/p&gt;
+
+&lt;h4 id=&quot;تولید-خروجی-و-پیشنمایش&quot;&gt;تولید خروجی و پیش‌نمایش&lt;/h4&gt;
+
+&lt;p&gt;پس از انجام ویرایش‌ها، کافیست برای مشاهده پیش‌نمایشی از وبلاگ دستور زیر را اجرا کنیم تا ضمن تولید خروجی در پوشه &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;output&lt;/code&gt;، سرور پیش‌نمایش روی آدرس &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost:5080&lt;/code&gt; راه‌اندازی شود:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;C:\myblog&amp;gt; wyam . -p --theme CleanBlog
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;اگر بخواهیم فقط خروجی تولید شود، دستور زیر را اجرا می‌کنیم:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;C:\myblog&amp;gt; wyam . --theme CleanBlog
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;خروجی در پوشه &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;output&lt;/code&gt; قرار دارد، پس برای انتشار کافی است فقط محتویات این پوشه را روی هاست بارگذاری کنیم.&lt;/p&gt;
+
+&lt;h3 id=&quot;شخصیسازی-و-تنظیم&quot;&gt;شخصی‌سازی و تنظیم&lt;/h3&gt;
+
+&lt;h4 id=&quot;ویرایش-پوستهها&quot;&gt;ویرایش پوسته‌ها&lt;/h4&gt;
+
+&lt;p&gt;در Wyam، پوسته‌ها بر اساس دستورپخت طراحی و آماده می‌شوند و سپس در قالب یک بسته NuGet منتشر می‌شوند یا در پوشه &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;theme&lt;/code&gt; در ریشه پروژه قرار می‌گیرند. بنابراین برای ویرایش پوسته‌ای که از طریق بسته NuGet استفاده می‌شود، باید بسته NuGet را به پوشه &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;theme&lt;/code&gt; استخراج کنیم یا در صورت در اختیار داشتن کد منبع پوسته، آن را در پوشه &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;theme&lt;/code&gt; کپی کنیم.&lt;/p&gt;
+
+&lt;p&gt;در مورد پوسته CleanBlog، روش دوم ساده‌تر و آسان‌تر است. از &lt;a href=&quot;https://github.com/Wyamio/Wyam/tree/develop/themes/Blog/CleanBlog&quot;&gt;اینجا&lt;/a&gt; می‌توانید به کد منبع پوسته CleanBlog دسترسی داشته باشید. برای دریافت آن، می‌توانید کل کد Wyam را از گیت‌هاب به صورت zip دانلود کنید یا با clone کردن مخزن Wyam، پوشه مربوط به پوسته را کپی کنید.&lt;/p&gt;
+
+&lt;p&gt;پوسته‌های Wyam به زبان Razor نوشته می‌شوند که ترکیبی از C# و HTML است. برای استفاده از کد C# در پوسته‌ها می‌توان کد را به صورت یک کتابخانه کامپایل‌شده در آورد و سپس اسمبلی آن را در پیکربندی مورد ارجاع قرار دهیم.&lt;/p&gt;
+
+&lt;p&gt;برای آشنایی بیشتر با Razor پیشنهاد می‌کنم &lt;a href=&quot;https://www.w3schools.com/asp/razor_intro.asp&quot;&gt;اینجا&lt;/a&gt; را بخوانید.&lt;/p&gt;
+
+&lt;h4 id=&quot;پوسته-فارسی-cleanblog&quot;&gt;پوسته فارسی CleanBlog&lt;/h4&gt;
+
+&lt;p&gt;پوسته‌های Wyam من‌جمله CleanBlog، به زبان انگلیسی و دارای تاریخ میلادی هستند. فارسی‌سازی پوسته کار خاصی به جز جایگزینی رشته‌های انگلیسی با فارسی ندارد، اما برای افزودن تاریخ هجری شمسی باید در جایی که تاریخ مطلب را جای‌گذاری کرده‌ایم، پیش از جای‌گذاری تاریخ را به صورت هجری شمسی در بیاوریم. برای این کار از کلاس &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;PersianDateTimeFormat&lt;/code&gt; استفاده می‌کنیم (که آن را در &lt;a href=&quot;https://github.com/hadi77ir/PersianDateTimeFormat&quot;&gt;اینجا&lt;/a&gt; به اشتراک گذاشته‌ام). برای راست‌چین کردن صفحات، از آن‌جایی که این پوسته برپایه Bootstrap 3 طراحی شده است، استفاده از &lt;a href=&quot;https://github.com/bright/bootstrap-rtl&quot;&gt;Bootstrap RTL Ondemand&lt;/a&gt; گزینه مناسبی به نظر می‌رسد. پروژه نهایی را در &lt;a href=&quot;https://github.com/hadi77ir/wyam-persian-blog-boilerplate&quot;&gt;این مخزن&lt;/a&gt; می‌توانید مشاهده کنید و از آن به عنوان پایه و اساس وبلاگ ایستای خود استفاده کنید :)&lt;/p&gt;
+
+&lt;h4 id=&quot;شخصیسازی-خط-تولید&quot;&gt;شخصی‌سازی خط تولید&lt;/h4&gt;
+
+&lt;p&gt;می‌توان از طریق مشخصه &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Pipelines&lt;/code&gt; تغییرات مدنظر را اعمال کرد. هر خط تولید یک نام منحصربه‌فرد دارد. برای پیدا کردن نام خطوط تولید هر دستور پخت می‌توانید به مستندات آن مراجعه کنید، به عنوان مثال خطوط تولید دستور پخت بلاگ از &lt;a href=&quot;https://wyam.io/recipes/blog/pipelines&quot;&gt;اینجا&lt;/a&gt; قابل دسترس است. اگر خط تولیدی با نام &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Name&lt;/code&gt; را فرض کنید، تکه‌کدهای زیر برای انجام عملیات روی آن خط تولید قابل استفاده‌اند.&lt;/p&gt;
+
+&lt;h5 id=&quot;افزودن-خط-تولید&quot;&gt;افزودن خط تولید&lt;/h5&gt;
+
+&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;Pipelines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;New&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;nf&quot;&gt;ModuleA&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(),&lt;/span&gt;
+    &lt;span class=&quot;nf&quot;&gt;ModuleB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h5 id=&quot;حذف-خط-تولید&quot;&gt;حذف خط تولید&lt;/h5&gt;
+
+&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;Pipelines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Remove&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h5 id=&quot;جایگزینی-خط-تولید&quot;&gt;جایگزینی خط تولید&lt;/h5&gt;
+
+&lt;p&gt;برای جایگزین کردن یک خط تولید، همه ماژول‌های آن را حذف می‌کنیم و ماژول‌های جدید را جایگزین می‌کنیم.&lt;/p&gt;
+
+&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;Pipelines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Clear&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Pipelines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;AddRange&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;nf&quot;&gt;ModuleA&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(),&lt;/span&gt;
+    &lt;span class=&quot;nf&quot;&gt;ModuleB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h5 id=&quot;افزودن-خط-تولید-در-ترتیب-خاص&quot;&gt;افزودن خط تولید در ترتیب خاص&lt;/h5&gt;
+
+&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;Pipelines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;InsertAfter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;PrevPipe&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;nf&quot;&gt;ModuleA&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(),&lt;/span&gt;
+    &lt;span class=&quot;nf&quot;&gt;ModuleB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h5 id=&quot;حذف-یک-ماژول-از-خط-تولید&quot;&gt;حذف یک ماژول از خط تولید&lt;/h5&gt;
+
+&lt;p&gt;برای حذف یک ماژول براساس نام از یک خط تولید، به صورت زیر عمل می‌کنیم:&lt;/p&gt;
+
+&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;Pipelines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;PipelineName&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Remove&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;ModuleName&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;برای حذف یک ماژول براساس اندیس ترتیب در خط تولید، به صورت زیر عمل می‌کنیم:&lt;/p&gt;
+
+&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;Pipelines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;PipelineName&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;RemoveAt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h5 id=&quot;افزودن-یک-ماژول-در-ترتیب-خاص-یا-جایگزینی-یک-ماژول-در-خط-تولید&quot;&gt;افزودن یک ماژول در ترتیب خاص یا جایگزینی یک ماژول در خط تولید&lt;/h5&gt;
+
+&lt;p&gt;برای انجام این تغییرات باید از متدهای افزونه موجود در کلاس &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ModuleListExtension&lt;/code&gt; استفاده کنیم. این متدها توانایی افزودن و حذف کردن ماژول‌ها در خط تولید بر اساس نام ماژول، نوع و اندیس را می‌دهند. برای اطلاعات بیشتر، &lt;a href=&quot;https://wyam.io/api/Wyam.Common.Modules/ModuleListExtensions&quot;&gt;به مستندات مراجعه کنید&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;چگونه-بنویسیم&quot;&gt;چگونه بنویسیم؟&lt;/h3&gt;
+
+&lt;p&gt;برای نوشتن و نشانه‌گذاری در مارک‌داون، نیاز به ویرایشگر خاصی نیست و حتی Notepad برای این امر کفایت می‌کند. اما &lt;a href=&quot;https://typora.io&quot;&gt;Typora&lt;/a&gt; یکی از بهترین ویرایشگرهای رایگان مارک‌داون است که امکانات مناسبی به یک نویسنده ارائه می‌کند؛ از جمله «حالت تمرکز» و «حالت ماشین تایپ». از بین همه ویرایشگرهای موجود، این برنامه با اندکی تغییرات (استفاده از یک پوسته سفارشی) می‌تواند برای نوشتن مطالب به زبان فارسی مناسب باشد. پوسته سفارشی این نرم‌افزار را از &lt;a href=&quot;https://github.com/hadi77ir/Typora-Persian&quot;&gt;اینجا&lt;/a&gt; بگیرید و طبق دستورالعمل ذکر شده در مستندات فعال کنید. این پوسته در واقع یکی از پوسته‌های اصلی Typora است که راست‌چین شده و قلم آزاد &lt;a href=&quot;http://rastikerdar.github.io/vazir-font/&quot;&gt;وزیر&lt;/a&gt; نیز به آن اضافه شده است.&lt;/p&gt;
+
+&lt;h2 id=&quot;انتشار&quot;&gt;انتشار&lt;/h2&gt;
+
+&lt;p&gt;برای انتشار سایت ایستا هزاران روش وجود دارد که به تعدادی از آن‌ها به اختصار می‌پردازم.&lt;/p&gt;
+
+&lt;h3 id=&quot;هاست&quot;&gt;هاست&lt;/h3&gt;
+
+&lt;p&gt;تمام میزبانی‌های وب (اعم از ویندوز، لینوکس و…) توانایی میزبانی وب‌سایت‌های ایستا را دارا هستند. بنابراین کافیست با استفاده از FTP یا راه‌های دیگر انتقال پرونده به هاست، محتویات پوشه خروجی را در ریشه سایت بارگذاری کنیم.&lt;/p&gt;
+
+&lt;h3 id=&quot;سرور&quot;&gt;سرور&lt;/h3&gt;
+
+&lt;p&gt;برای انتشار روی یک سرور، کافی است از یک سرور HTTP استفاده شود. سرورهای HTTP ساده مانند &lt;a href=&quot;https://www.npmjs.com/package/serve&quot;&gt;Serve&lt;/a&gt; (در Node.js) یا &lt;a href=&quot;https://docs.python.org/2/library/simplehttpserver.html&quot;&gt;SimpleHTTPServer&lt;/a&gt; (در پایتون) برای این کار کفایت می‌کنند؛ هر چند می‌توان از Lighttpd یا nginx برای بهره بردن از امکاناتی چون HTTPS و میزبانی سایت‌ها با دامنه‌های مختلف بهره برد اما مزیت اصلی سرور نسبت به هاست، در امکان تولید خروجی روی آن است. می‌توان تنها پوشه(های) ورودی را روی سرور با آخرین تغییرات به‌روزرسانی کرد و سپس خروجی را تولید کرد.&lt;/p&gt;
+
+&lt;h3 id=&quot;netlify&quot;&gt;Netlify&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://netlify.com&quot;&gt;Netlify&lt;/a&gt; سرویس میزبانی مخصوص سایت‌های ایستاست و یکی از بهترین‌ها برای میزبانی یک سایت ایستا به علت آسانی روند استقرار است. پلن رایگان آن برای وب‌سایت‌های شخصی و پروژه‌های متن‌باز ایده‌آل است: هر سایت در ابتدا یک زیردامنه از &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;netlify.com&lt;/code&gt; است که می‌تواند دامنه اختصاصی خود را نیز داشته باشد. امکان استفاده از Let’s Encrypt با تمدید خودکار هم وجود دارد. انتشار در Netlify پس از ایجاد حساب کاربری، بسیار ساده است: پوشه خروجی را بکشید و در صفحه مدیریت سایت رها کنید. به همین سادگی! &lt;a href=&quot;https://wyam.io/docs/deployment/netlify&quot;&gt;در مستندات Wyam&lt;/a&gt; درباره انتشار روی Netlify توضیحات بیشتری داده شده است.&lt;/p&gt;
+
+&lt;h2 id=&quot;و-اما-بعد&quot;&gt;و اما بعد…&lt;/h2&gt;
+
+&lt;p&gt;در آینده به نحوه استفاده از Git و یکپارچگی مداوم (CI) برای وب‌سایت ایستا خواهم پرداخت. با من همراه شوید :)&lt;/p&gt;
+
+&lt;h2 id=&quot;برای-اطلاع-بیشتر&quot;&gt;برای اطلاع بیشتر&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.staticgen.com&quot;&gt;فهرست مولدهای سایت ایستا&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hanselman.com/blog/ExploringWyamANETStaticSiteContentGenerator.aspx&quot;&gt;معرفی Wyam توسط Scott Hanselman&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wyam.io/docs/&quot;&gt;مستندات Wyam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wyam.io/docs/deployment/netlify&quot;&gt;Wyam و Netlify&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sitepoint.com/7-reasons-not-use-static-site-generator/&quot;&gt;۷ دلیل برای دوری جستن از مولدهای سایت ایستا&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;موتور نمایش طراحی شده برای ASP.NET MVC &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>hadi77ir</name></author><category term="Wyam" /><category term="سایت ایستا" /><category term="Static Site" /><category term="dotnet" /><category term="Netlify" /><summary type="html">طراحی و پیاده‌سازی وب‌سایت این روزها با سیستم‌های مدیریت محتوا و علی‌الخصوص سیستم‌های مدیریت محتوای مشهوری چون جوملا، وردپرس، دروپال و امثالهم گره خورده است؛ اما آیا به جز وب‌سایت‌های پویا راه دیگری هم برای طراحی و پیاده‌سازی وب‌سایت وجود دارد؟</summary></entry></feed>
